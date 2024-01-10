@@ -1,4 +1,2 @@
-# Git, игнорируй всё
 .*
-# кроме файла .gitignore
 !.gitignore
